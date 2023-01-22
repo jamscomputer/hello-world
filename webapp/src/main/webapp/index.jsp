@@ -5,7 +5,12 @@
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
-    <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
+    <input type="text" placeholder="Enter First Name" name="Name" id="Name" required>
+    <br>
+    
+    
+    <label for="Surname"><b>Enter Surname</b></label>
+    <input type="text" placeholder="Enter Surname" name="Surname" id="Surname" required>
     <br>
     
     <label for="email"><b>Enter Email</b></label>
@@ -23,6 +28,7 @@
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
+  <br>
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
