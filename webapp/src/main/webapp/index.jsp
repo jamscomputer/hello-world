@@ -34,7 +34,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning </h1>
+   <h1> You have successfully complete the CI/CD Pipeline using Ansible, docker and Jenkins </h1>
 
   
 </form>
